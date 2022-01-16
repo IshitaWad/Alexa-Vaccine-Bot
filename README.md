@@ -6,3 +6,5 @@ The bot makes use of the voice-assistant Alexa to notify you when slots are avai
 
 ## How we built it
 The project utilizes data from Verto API, which is an API service that checks for vaccine slots at all registered clinics in the area. The API service updates with new information every 15 minutes, and that is then passed onto Alexa so that it is able to look for available vaccine slots.
+
+### You can view the Devpost for the project here: https://devpost.com/software/alexa-vaccine-bot
